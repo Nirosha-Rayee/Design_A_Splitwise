@@ -1,5 +1,5 @@
-Create an Expense Sharing Application
-Requirements
+**Create an Expense Sharing Application**
+**Requirements:**
 Users can register and update their profiles
 A user's profile should contain at least their name, phone number and password
 Users can participate in expenses with other users
