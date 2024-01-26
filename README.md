@@ -1,6 +1,5 @@
-#Design_A_Splitwise
-
-Machine Coding interview question, design Splitwise (an expense sharing app)
+# Design_A_Splitwise
+Machine Coding / Low level design (LLD) interview question, design Splitwise (an expense sharing app)
 
 **Create an Expense Sharing Application**
 
